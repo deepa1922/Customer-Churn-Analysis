@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 This project involves analyzing bank churn data to understand customer attrition factors. The goal is to extract insights that will inform the development of targeted loyalty programs and retention strategies, ultimately aiming to reduce churn and optimize overall customer satisfaction.
 
-![image](customer churn analysis img.png)
+![image](churn_analysis_dashboard.png)
 
 ## About Data
 The dataset includes tables like ActiveCustomer, Bank_Churn, CreditCard, CustomerInfo, ExitCustomer, Gender, and Geography, providing essential information for analyzing customer churn.
